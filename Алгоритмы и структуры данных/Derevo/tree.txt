@@ -1,0 +1,11 @@
+15 sonyagj 0 2 3
+8 moonlight 0 4 5
+29 hinmin 1 6 7
+2 pastore 0 0 0
+9 harrykane 1 0 0
+20 dellealli 0 8 0
+99 curry 1 9 10
+17 kilian 0 11 0
+88 tompson 1 0 0
+104 enrike 1 0 0
+16 green 0 0 0
